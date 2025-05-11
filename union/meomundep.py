@@ -1,0 +1,1 @@
+print(f"Do you want me to make a script for this testnet project?")
