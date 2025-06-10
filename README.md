@@ -11,3 +11,5 @@ https://sei.faucetme.pro/
 https://faucets.chain.link/corn-testnet
 
 https://web3.okx.com/faucet
+
+https://www.alchemy.com/faucets
