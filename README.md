@@ -15,3 +15,5 @@ https://web3.okx.com/faucet
 https://www.alchemy.com/faucets
 
 https://faucet.xion.burnt.com/
+
+https://cloud.google.com/application/web3/faucet/
