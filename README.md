@@ -3,3 +3,5 @@
 https://www.docs.sei.io/learn/faucet
 
 https://faucet.dragonswap.app/faucet
+
+https://www.allthatnode.com/faucet/sei.dsrv
