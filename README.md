@@ -13,3 +13,5 @@ https://faucets.chain.link/corn-testnet
 https://web3.okx.com/faucet
 
 https://www.alchemy.com/faucets
+
+https://faucet.xion.burnt.com/
