@@ -9,3 +9,5 @@ https://www.allthatnode.com/faucet/sei.dsrv
 https://sei.faucetme.pro/
 
 https://faucets.chain.link/corn-testnet
+
+https://web3.okx.com/faucet
