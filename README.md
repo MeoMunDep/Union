@@ -18,4 +18,4 @@ https://faucet.xion.burnt.com/
 
 https://cloud.google.com/application/web3/faucet/
 
- 
+https://faucet.hoodscan.io/
